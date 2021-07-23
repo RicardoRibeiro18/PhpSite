@@ -1,1 +1,6 @@
-print "123";
+<?php
+
+print "hello";
+print "world";
+
+?>
